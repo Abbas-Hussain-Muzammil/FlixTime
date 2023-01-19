@@ -72,5 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Sample View of the application:![Screenshot (231)](https://user-images.githubusercontent.com/87604394/208058789-f820c17c-e469-44b1-b51a-7ceb0f53cee4.png)
 
-
-
+#FlixTime
+An on-demand movie application with functionality which lets you add your favourite movies to your favourite list.
